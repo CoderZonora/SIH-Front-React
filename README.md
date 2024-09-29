@@ -1,3 +1,9 @@
+Installed using: https://ui.shadcn.com/docs/installation/vite
+Shadcdn latest has issues. So use these to add components and test:
+npx shadcn-ui@0.8.0 add 
+npm run dev
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
