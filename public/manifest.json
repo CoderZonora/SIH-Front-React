@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Cipher Identifier",
+  "short_name": "Ciphy",
+  "version": "1.0.0",
+  "description": "A basic cipher identifier",
+  "icons": [
+    {
+      "src": "public/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "start_url": "/"
+}
